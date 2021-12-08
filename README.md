@@ -9,8 +9,9 @@ This is the installation via the compiled CSS and JS files.
 ## MDB React
 
 Getting started:
-
-`npm i mdb-ui-kit`
+`npm init`
+`npm install bootstrap`
+`npm install @popperjs/core --save`
 
 [React Installation guide](https://mdbootstrap.com/docs/b5/react/getting-started/installation/)
 
