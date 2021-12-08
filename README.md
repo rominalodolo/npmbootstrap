@@ -6,17 +6,17 @@ Full Course for Beginners by Dawid Adach via Free Code Camp.
 
 This is the installation via the compiled CSS and JS files. 
 
-## MDB React
+## npm React
 
 Getting started:
 `npm init`
 `npm install bootstrap`
 `npm install @popperjs/core --save`
 
+
+#### Tools:
 [React Installation guide](https://mdbootstrap.com/docs/b5/react/getting-started/installation/)
 
-
-#### Js Popper Tool
 ` npm i @popperjs/core `
 [More info here](https://popper.js.org)
 
