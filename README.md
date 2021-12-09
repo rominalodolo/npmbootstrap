@@ -27,6 +27,8 @@ Getting started:
 - `.container-{breakpoint}`  which is width: 100% until the specified breakpoint
 
 Below: Table illustrates how each container’s max-width compares to the original `.container` & `.container-fluid` across each breakpoint.
+![gridcontainers](https://user-images.githubusercontent.com/83961643/145452583-d58c7061-854f-407b-b729-a0f5fecdc900.jpeg)
+
 
 ## Screen Shot of Bootstrap Website
 
