@@ -26,6 +26,8 @@ Getting started:
 - `.container-fluid` which is width: 100% at all breakpoints
 - `.container-{breakpoint}`  which is width: 100% until the specified breakpoint
 
+Below: Table illustrates how each container’s max-width compares to the original `.container` & `.container-fluid` across each breakpoint.
+
 ## Screen Shot of Bootstrap Website
 
 
